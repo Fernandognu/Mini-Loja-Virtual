@@ -64,10 +64,10 @@ h2{
   /* General */
   .content-size {
       width: 70%;
+  }
 }
 /* Min Width 1024px */
 @media all and (min-width: 1024px) {
-  
   /* General */
   .content-size {
       width: 85%;
